@@ -2,7 +2,7 @@
 
 The Sound Localization dataset can be downloaded from the following link:
 
-https://google.com
+https://drive.google.com/open?id=1P93CTiQV71YLZCmBbZA0FvdwFxreydLt
 
 This dataset contains 5k image-sound pairs and their annotations in XML format.
 Each XML file has annotations of 3 annotators.
