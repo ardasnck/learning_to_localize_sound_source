@@ -7,6 +7,8 @@ https://drive.google.com/open?id=1P93CTiQV71YLZCmBbZA0FvdwFxreydLt
 This dataset contains 5k image-sound pairs and their annotations in XML format.
 Each XML file has annotations of 3 annotators.
 
+test_list.txt file includes the id of every pair that is used for testing.
+
 
 If you end up using the dataset, we ask you to cite the following paper:
 
