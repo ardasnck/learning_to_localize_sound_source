@@ -14,6 +14,8 @@ The codebase is the re-implementation of the code that was used in  CVPR 2018 <a
   - Sound features are directly obtained from <a href="https://github.com/cvondrick/soundnet">SoundNet</a> implementation. We apply average pooling on the output of "Object" branch of Conv8 layer and use it as sound feature in our architecture.
   - To be able to use our dataloader (Sound_Localization_Dataset.py);
     - Each sample folder should contain frames as `.jpg` and audio features as `.mat` extensions. Fore details please refer to `Sound_Localization_Dataset.py`
+    `/hdd/SoundLocalization/dataset/12015590114.mp4/frame1.jpg`
+    `/hdd/SoundLocalization/dataset/12015590114.mp4/12015590114.mat`
 
 - The Sound Localization Dataset (Annotated Dataset)
 
