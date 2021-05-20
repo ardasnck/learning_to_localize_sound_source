@@ -1,4 +1,4 @@
-# Learning to Localize Sound Source in Visual Scenes [CVPR 2018,TPAMI "To Appear"]
+# Learning to Localize Sound Source in Visual Scenes [CVPR 2018,TPAMI 2020]
 
 The codebase is the re-implementation of the code that was used in  CVPR 2018 <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Senocak_Learning_to_Localize_CVPR_2018_paper.pdf">Learning to Localize Sound Source in Visual Scenes</a> and TPAMI <a href="https://arxiv.org/abs/1911.09649">Learning to Localize Sound Source in Visual Scenes: Analysis and Applications</a> papers. Original code was written in the early version of Tensorflow so that we re-implemented it in PyTorch for the community.
 
