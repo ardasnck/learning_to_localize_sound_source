@@ -50,11 +50,11 @@ If you end up using our code or dataset, we ask you to cite the following papers
     month = {June},
     year = {2018}
     }
-    @article{Senocak_2019_TPAMI,
+    @article{Senocak_2020_TPAMI,
     title = {Learning to Localize Sound Source in Visual Scenes: Analysis and Applications},
     author = {Senocak, Arda and Oh, Tae-Hyun and Kim, Junsik and Yang, Ming-Hsuan and So Kweon, In},
     journal = {TPAMI},
-    year = {2019},
+    year = {2020},
     publisher = {IEEE}
     }
 
